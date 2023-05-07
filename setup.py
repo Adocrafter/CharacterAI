@@ -4,7 +4,7 @@ with open('README.md') as readme:
     long_description = readme.read()
 
 setup(
-    name='characterai'
+    name='characterai',
     version='0.2.7',
     author='kramcat',
     description='An unofficial API for character.ai for Python',
